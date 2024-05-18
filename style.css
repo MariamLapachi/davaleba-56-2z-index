@@ -8,14 +8,14 @@ body {
 }
 
 .img1 {
-    width: 435px;
+    width: 500px;
     height: 254px;
     z-index: 3;
     position: absolute;
 }
 
 .img2 {
-    width: 558px;
+    width: 800px;
     height: 254px;
     left: 371px;
     z-index: 1;
@@ -23,9 +23,9 @@ body {
 }
 
 .img3 {
-    width: 421px;
+    width: 500px;
     height: 254px;
-    left: 859px;
+    left: 1050px;
     z-index: 2;
     position: absolute;
 }
@@ -34,7 +34,7 @@ div {
     width: 538px;
     height: 59px;
     top: 195px;
-    left: 391px;
+    left: 500px;
     position: absolute;
     z-index: 4;
     text-align: center;
@@ -42,7 +42,7 @@ div {
 
 p {
     color: #FFFFFF;
-    font-size: 12px;
+    font-size: 16px;
     line-height: 14.52px;
     font-weight: 700;
     font-style: initial;
