@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+.img1 {
+    width: 435px;
+    height: 254px;
+    z-index: 3;
+    position: absolute;
+}
+
+.img2 {
+    width: 558px;
+    height: 254px;
+    left: 371px;
+    z-index: 1;
+    position: absolute;
+}
+
+.img3 {
+    width: 421px;
+    height: 254px;
+    left: 859px;
+    z-index: 2;
+    position: absolute;
+}
+
+div {
+    width: 538px;
+    height: 59px;
+    top: 195px;
+    left: 391px;
+    position: absolute;
+    z-index: 4;
+    text-align: center;
+}
+
+p {
+    color: #FFFFFF;
+    font-size: 12px;
+    line-height: 14.52px;
+    font-weight: 700;
+    font-style: initial;
+}
